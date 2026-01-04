@@ -31,9 +31,10 @@ blob_detection/
 ├── run_on_test_images.py                       # Batch processing
 ├── optimize_parameters.py                       # Parameter tuning
 ├── find_best_threshold.py                      # Threshold optimization
-├── fishes.jpg                                  # Test image 1
-├── butterfly.jpg                               # Test image 2
-├── sunflowers.jpg                              # Test image 3
+├── test_img/
+    ├── fishes.jpg                                  # Test image 1
+    ├── butterfly.jpg                               # Test image 2
+    └── sunflowers.jpg                              # Test image 3
 ├── outputs/                                    # Results directory
 └── README.md                                   # This file
 ```
